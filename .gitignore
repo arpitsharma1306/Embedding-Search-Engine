@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+
+# Cached embeddings
+embeddings_cache.db
+faiss_index.bin
+
+# Data files
+data/docs/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
